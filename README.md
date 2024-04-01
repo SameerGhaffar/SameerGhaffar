@@ -8,14 +8,13 @@
 <h3 align="center">Flutter Developer 》Cross-Platform-App-Developer</h3>
 <Br>
 <Br>
+
+## About Me
+
 - 🔭 I’m currently working as a Flutter Developer at Devruptor's Inc.
-
 - 🌱 I’m currently learning **Flutter Web**
-
 - 👯 I graduated with a Bachelor's degree in **Computer Science.**
-
 - 💬 Ask me about **Flutter, State Management,Dart**
-
 - 📫 How to reach me **Sameerghaffar20@gmail.com**
 
 <h3 align="Center">Connect with me:</h3>
