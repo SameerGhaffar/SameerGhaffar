@@ -12,7 +12,7 @@
 ## About Me
 
 - 🔭 I’m currently working as a Flutter Developer at Devruptor's Inc.
-- 🌱 I’m currently learning **Flutter Web**
+- 🌱 I have 7 month's of professional experience.
 - 👯 I graduated with a Bachelor's degree in **Computer Science.**
 - 💬 Ask me about **Flutter, State Management,Dart**
 - 📫 How to reach me **Sameerghaffar20@gmail.com**
